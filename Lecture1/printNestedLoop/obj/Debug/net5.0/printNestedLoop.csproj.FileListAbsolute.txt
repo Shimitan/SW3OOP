@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\printNestedLoop.exe
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\printNestedLoop.deps.json
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\printNestedLoop.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\printNestedLoop.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\printNestedLoop.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\ref\printNestedLoop.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\bin\Debug\net5.0\printNestedLoop.pdb
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.csproj.AssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\ref\printNestedLoop.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.pdb
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\printNestedLoop\obj\Debug\net5.0\printNestedLoop.genruntimeconfig.cache

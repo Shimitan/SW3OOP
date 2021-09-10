@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\convertDegRad.exe
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\convertDegRad.deps.json
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\convertDegRad.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\convertDegRad.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\convertDegRad.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\ref\convertDegRad.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\bin\Debug\net5.0\convertDegRad.pdb
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.csproj.AssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\ref\convertDegRad.dll
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.pdb
+C:\Users\Mike\Documents\GitHub\SW3OOP\Lecture1\convertDegRad\obj\Debug\net5.0\convertDegRad.genruntimeconfig.cache
