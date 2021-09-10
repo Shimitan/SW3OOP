@@ -4,7 +4,11 @@
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cec9001-f638-41f0-98d3-0439066bbef8" name="Changes" comment="" />
+    <list default="true" id="8cec9001-f638-41f0-98d3-0439066bbef8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lecture1/bin/Debug/net5.0/Lecture1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture1/bin/Debug/net5.0/Lecture1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture1/bin/Debug/net5.0/Lecture1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture1/bin/Debug/net5.0/Lecture1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture1/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture1/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,12 +60,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631258546333</updated>
-      <workItem from="1631258570745" duration="291000" />
+      <workItem from="1631258570745" duration="883000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
