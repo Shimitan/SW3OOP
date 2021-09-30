@@ -5,29 +5,73 @@
     <projectFile>EmployeeSalary/EmployeeSalary.csproj</projectFile>
     <projectFile>ParkingMeter/ParkingMeter.csproj</projectFile>
     <projectFile>BankAccount/BankAccount.csproj</projectFile>
+    <projectFile>InterfaceCar/InterfaceCar.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd9e953e-b342-4bc3-aa93-d38934f64ad6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BankAccount/BankAccount.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/BankAccount.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/BankAccount.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/BankAccount.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/BankAccount.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/Debug/net5.0/BankAccount.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/Debug/net5.0/BankAccount.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/Debug/net5.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/Debug/net5.0/BankAccount.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingMeter/ParkingMeter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingMeter/ParkingRate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingMeter/WeekendRate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/Car.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/CompareCar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/InterfaceCar.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/InterfaceCar.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/InterfaceCar.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/InterfaceCar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/InterfaceCar.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/InterfaceCar.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/InterfaceCar.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/bin/Debug/net5.0/ref/InterfaceCar.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/InterfaceCar.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/Debug/net5.0/ref/InterfaceCar.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/InterfaceCar.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/InterfaceCar.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/InterfaceCar.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceCar/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/BankAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/BankAccount.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/obj/BankAccount.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/obj/BankAccount.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/bin/Debug/net5.0/EmployeeSalary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/bin/Debug/net5.0/EmployeeSalary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/bin/Debug/net5.0/EmployeeSalary.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/bin/Debug/net5.0/EmployeeSalary.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/bin/Debug/net5.0/EmployeeSalary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/bin/Debug/net5.0/EmployeeSalary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/EmployeeSalary.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/EmployeeSalary.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercises.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParkingMeter/obj/ParkingMeter.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParkingMeter/obj/ParkingMeter.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParkingMeter/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParkingMeter/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParkingMeter/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ParkingMeter/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParkingMeter/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParkingMeter/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParkingMeter/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ParkingMeter/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/printNestedLoop.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/printNestedLoop.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +83,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/printNestedLoop/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc3d7024e97f4f818de53bc3c23872b48f5790/09/4bfab7d0/IComparable`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1yG1b6542FPMgnn4qTcQRxBplDe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,7 +101,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.EmployeeSalary">
+  <component name="RunManager" selected=".NET Project.InterfaceCar">
     <configuration name="BankAccount" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -84,6 +129,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/EmployeeSalary/EmployeeSalary.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceCar" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InterfaceCar/InterfaceCar.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -139,7 +202,8 @@
       <option name="presentableId" value="Default" />
       <updated>1631863181943</updated>
       <workItem from="1631863192903" duration="131000" />
-      <workItem from="1631863349565" duration="6852000" />
+      <workItem from="1631863349565" duration="7606000" />
+      <workItem from="1632473603629" duration="7776000" />
     </task>
     <servers />
   </component>
@@ -156,6 +220,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

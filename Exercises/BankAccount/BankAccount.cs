@@ -12,10 +12,6 @@
             {
                 return balance;
             }
-            set
-            {
-                
-            }
         }
         public double BorrowingRate { get; set; }
         public double SavingRate { get; set; }
