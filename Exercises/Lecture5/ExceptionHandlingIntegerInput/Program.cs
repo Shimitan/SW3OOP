@@ -6,8 +6,6 @@ namespace ExceptionHandlingIntegerInput
     {
         static void Main(string[] args)
         {
-            int number;
-            
             Console.WriteLine("Please input an integer: ");
             string intnumber = Console.ReadLine();
 

@@ -12,67 +12,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd9e953e-b342-4bc3-aa93-d38934f64ad6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccountNonnegativeBalance.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/BankAccountNonnegativeBalance.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/BankAccountNonnegativeBalance.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/BankAccountNonnegativeBalance.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/ExceptionHandlingIntegerInput.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ref/ExceptionHandlingIntegerInput.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ref/ExceptionHandlingIntegerInput.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/ExceptionHandlingIntegerInput.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/ExceptionHandlingIntegerInput.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/ExceptionHandlingIntegerInput.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/Lecture5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Debug/net5.0/Lecture5.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Debug/net5.0/Lecture5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Debug/net5.0/Lecture5.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Debug/net5.0/Lecture5.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Lecture5.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Lecture5.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/Lecture5.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccount.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Transaction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/ref/BankAccountNonnegativeBalance.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/ref/BankAccountNonnegativeBalance.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeSalary/obj/Debug/net5.0/EmployeeSalary.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printNestedLoop/obj/Debug/net5.0/printNestedLoop.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/printNestedLoop/obj/Debug/net5.0/printNestedLoop.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,10 +63,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.ExceptionHandlingIntegerInput">
+  <component name="RunManager" selected=".NET Project.BankAccountNonnegativeBalance">
     <configuration name="BankAccount" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -260,7 +223,7 @@
       <workItem from="1631863192903" duration="131000" />
       <workItem from="1631863349565" duration="7606000" />
       <workItem from="1632473603629" duration="7776000" />
-      <workItem from="1634289708231" duration="1290000" />
+      <workItem from="1634289708231" duration="7096000" />
     </task>
     <servers />
   </component>
