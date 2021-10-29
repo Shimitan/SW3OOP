@@ -12,30 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd9e953e-b342-4bc3-aa93-d38934f64ad6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccount.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Transaction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/BankAccountNonnegativeBalance.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/bin/Debug/net5.0/ref/BankAccountNonnegativeBalance.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/BankAccountNonnegativeBalance.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/obj/Debug/net5.0/ref/BankAccountNonnegativeBalance.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccount.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/bin/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/ExceptionHandlingIntegerInput/obj/Debug/net5.0/ExceptionHandlingIntegerInput.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +73,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccountNonnegativeBalance.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DelegateExercise1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lecture7/DelegateExercise1/DelegateExercise1.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -193,6 +190,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Lecture7" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lecture7/Lecture7.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ParkingMeter" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -223,7 +238,7 @@
       <workItem from="1631863192903" duration="131000" />
       <workItem from="1631863349565" duration="7606000" />
       <workItem from="1632473603629" duration="7776000" />
-      <workItem from="1634289708231" duration="7096000" />
+      <workItem from="1634289708231" duration="9036000" />
     </task>
     <servers />
   </component>

@@ -4,7 +4,7 @@ namespace BankAccountNonnegativeBalance
 {
     public class BankAccount
     {
-        public double Balance { get; set; }
+        public double Balance { get; private set; }
         public string Owner { get; set; }
 
         public void DepositBalance(double amount)
