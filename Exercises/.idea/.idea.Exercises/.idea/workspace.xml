@@ -9,12 +9,44 @@
     <projectFile>Lecture5/Lecture5.csproj</projectFile>
     <projectFile>Lecture5/ExceptionHandlingIntegerInput/ExceptionHandlingIntegerInput.csproj</projectFile>
     <projectFile>Lecture5/BankAccountNonnegativeBalance/BankAccountNonnegativeBalance.csproj</projectFile>
+    <projectFile>Lecture7/Lecture7.csproj</projectFile>
+    <projectFile>Lecture7/DelegateExercise1/DelegateExercise1.csproj</projectFile>
+    <projectFile>Lecture7/DelegateExercise2/DelegateExercise2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd9e953e-b342-4bc3-aa93-d38934f64ad6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/DelegateExercise1.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/DelegateExercise1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/DelegateExercise1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/DelegateExercise1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/DelegateExercise1.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/DelegateExercise1.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/bin/Debug/net5.0/ref/DelegateExercise1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/DelegateExercise1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/DelegateExercise1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/DelegateExercise1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/DelegateExercise1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/DelegateExercise1.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/DelegateExercise1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/obj/Debug/net5.0/ref/DelegateExercise1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/DelegateExercise2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/Debug/net5.0/DelegateExercise2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/Debug/net5.0/DelegateExercise2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/Debug/net5.0/DelegateExercise2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/Debug/net5.0/DelegateExercise2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/DelegateExercise2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/DelegateExercise2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/DelegateExercise2.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise2/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/BankAccount.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture5/BankAccountNonnegativeBalance/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture7/DelegateExercise1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture7/DelegateExercise1/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +58,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/printNestedLoop/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lecture7/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc3d7024e97f4f818de53bc3c23872b48f5790/09/4bfab7d0/IComparable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lecture5/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -42,10 +75,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.BankAccountNonnegativeBalance">
+  <component name="RunManager" selected=".NET Project.DelegateExercise1">
     <configuration name="BankAccount" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -91,6 +125,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lecture7/DelegateExercise1/DelegateExercise1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DelegateExercise2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lecture7/DelegateExercise2/DelegateExercise2.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -239,6 +291,7 @@
       <workItem from="1631863349565" duration="7606000" />
       <workItem from="1632473603629" duration="7776000" />
       <workItem from="1634289708231" duration="9036000" />
+      <workItem from="1635499102506" duration="2642000" />
     </task>
     <servers />
   </component>
